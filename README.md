@@ -10,7 +10,7 @@
   * Backend : Flask Framework with SqlAlchemy
   * Frontend : HTML,CSS,Javascript,Bootstrap3
 ## Installation and run application 
-* Clone the repository by git clone 
+* Clone the repository by git clone https://github.com/Floride125-art/TheExplorianaTravel.git
 * run on your local machine terminal by python/python3 app.py
   
 ## sample page output 
